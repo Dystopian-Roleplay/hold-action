@@ -9,7 +9,7 @@
 		"Southclaws/progress2"
 	],
 	"dev_dependencies": [
-		"ScavengeSurvive/test-boilerplate"
+		"Dystopian-Roleplay/test-boilerplate"
 	],
 	"runtime": {
 		"version": "0.3.7",
